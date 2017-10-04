@@ -1,0 +1,4 @@
+MuseTask.MainActivity, MuseTask;md5fe17d7dcd608421d12a7c783043f137a.MainActivity
+MuseTask.MainActivity, MuseTask, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fe17d7dcd608421d12a7c783043f137a.MainActivity
+MuseTask.MainActivity;md5fe17d7dcd608421d12a7c783043f137a.MainActivity
+musetask.MainActivity;md5fe17d7dcd608421d12a7c783043f137a.MainActivity

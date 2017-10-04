@@ -1,0 +1,16 @@
+C:\Users\Khaled\source\repos\MuseTask\MuseTask\bin\Debug\MuseTask.dll
+C:\Users\Khaled\source\repos\MuseTask\MuseTask\bin\Debug\MuseTask.pdb
+C:\Users\Khaled\source\repos\MuseTask\MuseTask\bin\Debug\MuseTask.MuseTask.apk
+C:\Users\Khaled\source\repos\MuseTask\MuseTask\bin\Debug\MuseTask.MuseTask-Signed.apk
+C:\Users\Khaled\source\repos\MuseTask\MuseTask\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Khaled\source\repos\MuseTask\MuseTask\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Khaled\source\repos\MuseTask\MuseTask\obj\Debug\MuseTask.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\source\repos\MuseTask\MuseTask\obj\Debug\MuseTask.dll
+C:\Users\Khaled\source\repos\MuseTask\MuseTask\obj\Debug\MuseTask.pdb
+C:\Users\Khaled\source\repos\MuseTask\MuseTask\obj\Debug\android\bin\MuseTask.MuseTask.apk
+C:\Users\Khaled\source\repos\MuseTask\MuseTask\obj\Debug\res\layout\main.xml
+C:\Users\Khaled\source\repos\MuseTask\MuseTask\obj\Debug\res\values\strings.xml
+C:\Users\Khaled\source\repos\MuseTask\MuseTask\obj\Debug\R.cs.flag
+C:\Users\Khaled\source\repos\MuseTask\MuseTask\obj\Debug\uploadflags.txt
+C:\Users\Khaled\source\repos\MuseTask\MuseTask\bin\Debug\MuseTask.dll.mdb
+C:\Users\Khaled\source\repos\MuseTask\MuseTask\obj\Debug\android\assets\MuseTask.dll.mdb

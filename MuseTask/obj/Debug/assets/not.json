@@ -1,0 +1,16 @@
+{
+  "notf": [
+    {
+      "name": "first one",
+      "description": "Details about first notification",      
+    },
+	{
+      "name": "second one",
+      "description": "other details about second notification",      
+    },
+	{
+      "name": "third notification",
+      "description": "More details about third notification can be shown here",      
+    }
+	]
+}
